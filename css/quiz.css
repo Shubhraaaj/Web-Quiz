@@ -1,0 +1,56 @@
+.large-text {
+	font-size: 80px;
+	text-align: center;
+	padding: 2% 0 2% 0;
+	color: white;
+	background-color: #204b50;
+}
+
+.body-class {
+	background-color: #009688;
+}
+
+.question-text {
+	background-color: #c74f4ff7;
+	color: white;
+	margin: 2% 0 1% 25%;
+	font-size: 30px;
+	width: 50%;
+	text-align: center;
+	border-radius: 10px;
+	padding: 2% 0 2% 0;
+}
+
+.option-text {
+	background-color: #0b4c73;
+	color: white;
+	font-size: 20px;
+	width: 70%;
+	margin: 5% 0 5% 15%;
+	text-align: center;
+	border-radius: 40%;
+	padding: 5% 0 5% 0;	
+}
+
+.option-text:hover {
+	background-color: #2eb540f7;
+}
+
+.top-options {
+    display: table;
+    width: 100%;
+}
+
+.option {
+	width: 50%;
+    display: table-cell;
+}
+
+.next-btn {
+	width: 20%;
+	padding: 1% 0.5% 1% 0.5%;
+	margin: 3% 0 0 40%;
+	background-color: black;
+	color: white;
+	font-size: 30px;
+}
